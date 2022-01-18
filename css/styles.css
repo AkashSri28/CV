@@ -47,6 +47,14 @@ img{
 p{
     line-height: 1.5;
 }
+table{
+  margin: 0 auto;
+}
+ul{
+  justify-content: center;
+  display: contents;
+}
+}
 
 
 /*class selector*/
